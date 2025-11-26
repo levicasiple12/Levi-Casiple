@@ -26,8 +26,7 @@
 
 | Category | Skills |
 | :--- | :--- |
-| **Languages** | Python, JavaScript, SQL, HTML/CSS, [Add Others] |
-| **Tools/Platforms** | Git, GitHub, Docker, VS Code, [Add Others] |
-| **Concepts** | Data Analysis, Relational Databases, Agile Methodology, [Add Others] |
-
+| **Programming Languages** | Java, SQL |
+| **Tools & Platforms** | Visual Studio, Microsoft Office (Word, Excel, PowerPoint), Git/GitHub (Basic) |
+| **Design & Presentation** | Canva, PowerPoint (PPT) Presentation Design, Formatting |
 ---
