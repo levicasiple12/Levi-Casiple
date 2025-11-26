@@ -1,6 +1,6 @@
 # 👋 Hi, I'm [Levi V. Casiple]!
 
-![Profile Banner Placeholder]
+![Hello! Trying hard makapasa to hehe]
 
 ---
 
